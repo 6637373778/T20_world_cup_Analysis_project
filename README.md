@@ -1,2 +1,2 @@
-# T20_world_cup_analysis_project
+# T20 world cup analysis
 This is Data Analysis project.
